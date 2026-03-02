@@ -1,0 +1,49 @@
+# AboutMe
+Short information about me
+
+Java developer from Ufa. I create reliable backend solutions for business and corporate systems.
+I have been in development for 2 years, I am actively developing and taking freelance orders.
+
+## 🛠 Technology stack text
+Java 17+ • Spring Framework • Spring Boot • Spring Web • Spring Security
+Hibernate • PostgreSQL • MySQL • H2 • Maven • Docker • AOP
+
+## 💼 What am I doing
+I write clean, structured code for:
+Corporate systems — personnel management, audit, role models
+Web applications — a full-fledged backend for any task
+Console utilities — automation of business processes
+
+## 🚀 My projects
+### Task Manager
+A full-fledged task management web application for Windows. My most well-developed project, where 
+I applied the entire main stack: Spring Boot, Security, Hibernate, PostgreSQL. He knows everything that 
+is needed to account for tasks in a team or for personal use.
+### Employee Audit Service
+A console application for managing employees with access rights (admin, HR, manager, user). 
+The key feature is the implementation of validation and logging via the Spring AOP + Command pattern. 
+It shows how you can build a flexible architecture without cluttering up business logic.
+### Course Management System
+A console application for managing the educational process (faculties, teachers, students, courses). 
+User-friendly interface, flexible data queries, and entity relationship management.
+
+All projects in the repositories are open for viewing — come in, see the code, suggest ideas!
+
+## ✨ What I love about development
+Come up with logic and bring it to life. Turn abstract business tasks into working, understandable code. 
+It is important for me not just to write, but to build a system so that it is convenient, secure and scalable.
+
+## 🎯 I 'm looking for it now
+Interesting freelance projects, especially:
+Corporate automation systems
+Web applications of varying complexity
+Tasks where architecture needs to be designed
+
+Write if you need a reliable performer or just want to chat!
+
+## 📬 Contacts
+
+Telegram: @IlyaMaximovJavadep
+Email: ilya.msx.vom.gmsil@gmail.com
+
+ I am open to cooperation and interesting suggestions
